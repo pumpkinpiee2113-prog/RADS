@@ -4,7 +4,7 @@
 
 ## Intended Use
 
-  RADS is designed for **development and testing environments**. It is meant for developers who need to run diagnostics when certain settings are disabled, such as when `loadstring` is unavailable or has been switched off in an experience.
+  RADS is designed for **development and testing environments**. It is meant for developers who need to run diagnostics when certain settings are enabled, such as when `loadstring` is unavailable or has been switched on in an experience.
 
 It is provided for legitimate development, debugging, and analysis purposes only.
 
